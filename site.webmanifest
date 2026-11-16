@@ -1,0 +1,12 @@
+{
+  "name": "Cobsistentia",
+  "short_name": "Cobsistentia",
+  "description": "Software engineering, quantitative R&D and automation infrastructure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "icons": [
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
